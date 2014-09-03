@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PersonalManager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_entries">No entries available</string>
+    <string name="add_entry">Add Entry</string>
+    <string name="delete_entry">Delete Entry</string>
+    <string name="title_activity_entry_create">EntryCreate</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="amount">Amount</string>
+    <string-array name="currencies">
+        <item >Rands</item>
+        <item >Rupees</item>
+    </string-array>
+    <string-array name="categories">
+        <item >Shopping</item>
+        <item >Medical</item>
+        <item >Others</item>
+    </string-array>
+        <string name="description_hint">Enter description here</string>
+        <string name="debit">Debit</string>
+        <string name="credit">Credit</string>
+        <string name="save">Save</string>
+        <string name="cancel">Cancel</string>
+        <string name="category">Category</string>
+
+</resources>
